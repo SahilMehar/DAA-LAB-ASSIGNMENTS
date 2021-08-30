@@ -46,5 +46,5 @@ int main()
         sort(a,n);
         t--;
     }
-    return 0;
+    return 0; 
 }
