@@ -44,5 +44,5 @@ int main()
         selectionSort(a,n);
         t--;
     }
-    return 0;
+    return 0; 
 }
